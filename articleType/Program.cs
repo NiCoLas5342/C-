@@ -1,7 +1,8 @@
-using System;
+﻿using System;
 using System.Runtime.Intrinsics.X86;
 
-namespace ArticleType
+namespace artycleType
+
 {
     class Program
     {
@@ -11,67 +12,29 @@ namespace ArticleType
             Article produit1 = new Article("pull", 20, 40, ArticleType.habillement);
             Article produit2 = new Article("football", 90, 120, ArticleType.loisir);
 
+            Article[] articles = new Article[]
+            {
+                produit1,
+                produit2,
+            };
+
             //Affichage
-            Console.WriteLine("Affichage de tous les produits créés");
+            Console.WriteLine("Affichage de tous les produits créés s");
             produit1.afficher();
             produit2.afficher();
 
-
-            Console.WriteLine("Entrez un nom de produit :");
-            string articleName = Console.ReadLine();
-
-            Console.WriteLine("Entrez le prix du produit :");
-            int articlePrice = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Entrez la quantité de produit :");
-            int articleQuantity = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Entrez le type de produit  : Alimentaire, Droguerie, Habillement, Loisir ;");
-            string articleType = Console.ReadLine();
-            ArticleType enumArticleType = ArticleType.autre;
-
-            switch (articleType.ToLower())
+            //Affichage du tableau
+            Console.WriteLine("Affichage de tous les produits ");
+            foreach (Article art in articles)
             {
-                case "alimentaire":
-                    enumArticleType = ArticleType.alimentaire;
-                    break;
-                case "droguerie":
-                    enumArticleType = ArticleType.droguerie;
-                    break;
-                case "habillement":
-                    enumArticleType = ArticleType.habillement;
-                    break;
-                case "loisir":
-                    enumArticleType = ArticleType.loisir;
-                    break;
-                // le type d'article autre est déjà assigné lors de l'instanciation inutile de répété, tout autre texte entré sera considéré comme type autre
-                default:
-                    break;
+                art.afficher();
+                art.ajouter(40);
+                art.afficher();
             }
 
-            //instanciation du produit créé par l'utilisateur
-            Article userArticle = new Article(articleName, articlePrice, articleQuantity, enumArticleType);
-            //affichage
-            userArticle.afficher();
-
-            Console.WriteLine("Voulez-vous ajouter une quantité ou en retirer? (ADD/DELETE) :");
-            string choice = Console.ReadLine();
 
 
-            if (choice.ToUpper() == "ADD")
-            {
-                Console.WriteLine("Quel est la quantité que vous souhaitez ajouter ?");
-                int quantityToAdd = int.Parse(Console.ReadLine());
-                userArticle.ajouter(quantityToAdd);
-                userArticle.afficher();
-            }
-            else
-            {
-                Console.WriteLine("Quel est la quantité que vous souhaitez retirer ?");
-                int quantityToRemove = int.Parse(Console.ReadLine());
-                userArticle.retirer(quantityToRemove);
-                userArticle.afficher();
-            }
+
         }
     }
 }
