@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\obj\Debug\netcoreapp3.1\Personnes.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\obj\Debug\netcoreapp3.1\Personnes.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\obj\Debug\netcoreapp3.1\Personnes.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\obj\Debug\netcoreapp3.1\Personnes.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\bin\Debug\netcoreapp3.1\Personnes.exe
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\bin\Debug\netcoreapp3.1\Personnes.deps.json
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\bin\Debug\netcoreapp3.1\Personnes.runtimeconfig.json
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\bin\Debug\netcoreapp3.1\Personnes.runtimeconfig.dev.json
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\bin\Debug\netcoreapp3.1\Personnes.dll
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\bin\Debug\netcoreapp3.1\Personnes.pdb
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\obj\Debug\netcoreapp3.1\Personnes.dll
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\obj\Debug\netcoreapp3.1\Personnes.pdb
+\\Mac\Home\Desktop\C#\ProgrammationObjet\Personnes\obj\Debug\netcoreapp3.1\Personnes.genruntimeconfig.cache
