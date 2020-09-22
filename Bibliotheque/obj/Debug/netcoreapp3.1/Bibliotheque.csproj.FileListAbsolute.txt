@@ -1,0 +1,13 @@
+C:\Users\nicolas\source\repos\Bibliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.exe
+C:\Users\nicolas\source\repos\Bibliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.deps.json
+C:\Users\nicolas\source\repos\Bibliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.runtimeconfig.json
+C:\Users\nicolas\source\repos\Bibliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.runtimeconfig.dev.json
+C:\Users\nicolas\source\repos\Bibliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.dll
+C:\Users\nicolas\source\repos\Bibliotheque\bin\Debug\netcoreapp3.1\Bibliotheque.pdb
+C:\Users\nicolas\source\repos\Bibliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.csprojAssemblyReference.cache
+C:\Users\nicolas\source\repos\Bibliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\source\repos\Bibliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.AssemblyInfoInputs.cache
+C:\Users\nicolas\source\repos\Bibliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.AssemblyInfo.cs
+C:\Users\nicolas\source\repos\Bibliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.dll
+C:\Users\nicolas\source\repos\Bibliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.pdb
+C:\Users\nicolas\source\repos\Bibliotheque\obj\Debug\netcoreapp3.1\Bibliotheque.genruntimeconfig.cache
