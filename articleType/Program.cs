@@ -8,8 +8,8 @@ namespace ArticleType
         static void Main(string[] args)
         {
             //Instanciation
-            Article produit1 = new Article("pull", 49, 253, ArticleType.habillement);
-            Article produit2 = new Article("football", 499, 58, ArticleType.loisir);
+            Article produit1 = new Article("pull", 20, 40, ArticleType.habillement);
+            Article produit2 = new Article("football", 90, 120, ArticleType.loisir);
 
             //Affichage
             Console.WriteLine("Affichage de tous les produits créés");
