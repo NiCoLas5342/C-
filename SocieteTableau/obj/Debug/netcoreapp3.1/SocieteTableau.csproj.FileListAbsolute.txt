@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.exe
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.deps.json
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.runtimeconfig.json
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.runtimeconfig.dev.json
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.dll
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.pdb
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.dll
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.pdb
+\\Mac\Home\Desktop\C#\ProgrammationObjet\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.genruntimeconfig.cache
