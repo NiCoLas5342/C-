@@ -29,6 +29,12 @@ namespace EXO3
             return this.articles.Where(art => art.Name == name).FirstOrDefault();
         }
 
+        public (int, int) GetArticleQuantityPriceByName(string name)
+        {
+            Article art = this.articles.Where(art => art.Name == name).FirstOrDefault();
+            return (art.Quantity, art.Price);
+        }
+        
         public List<Article> GetArticles()
         {
             return new List<Article>()
